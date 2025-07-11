@@ -1,5 +1,5 @@
 """
-Programme réalisé par nom, prénom, classe
+Programme réalisé par Smarties72
 """
 import pygame
 from random import randint
